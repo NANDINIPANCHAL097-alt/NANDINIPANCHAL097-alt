@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinipanchal097-alt&label=Profile%20views&color=0e75b6&style=flat" alt="nandinipanchal097-alt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandinipanchal097-alt" alt="nandinipanchal097-alt" /></a> </p>
+
 
 - 🔭 I’m currently working on [🎵 Responsive Music Player Website](https://nandinipanchal097-alt.github.io/-codealpha_tasks3/)
 
@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandinipanchal097-alt&show_icons=true&locale=en" alt="nandinipanchal097-alt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandinipanchal097-alt&" alt="nandinipanchal097-alt" /></p>
+
 
