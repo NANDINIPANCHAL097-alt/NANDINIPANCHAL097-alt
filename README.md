@@ -1,11 +1,7 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm NANDINI</h1>
 <h3 align="center">Engineer by degree, Frontend Developer by passion, Cadet by spirit</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinipanchal097-alt&label=Profile%20views&color=0e75b6&style=flat" alt="nandinipanchal097-alt" /> </p>
-
-
 
 - 🔭 I’m currently working on [🎵 Responsive Music Player Website](https://nandinipanchal097-alt.github.io/-codealpha_tasks3/)
 
